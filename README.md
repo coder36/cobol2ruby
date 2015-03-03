@@ -65,6 +65,8 @@ Cobol resources:
 
 [JCL tutorial](http://tutorialspoint.com/jcl/)
 
+[Mainframe emulator which can run JCL](http://www.hercules-390.eu/)
+
 [OpenCobolIDE github](https://github.com/OpenCobolIDE/OpenCobolIDE)
 
 [Download OpenCobolIDE](https://launchpad.net/cobcide/+download)
