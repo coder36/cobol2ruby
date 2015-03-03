@@ -57,3 +57,16 @@ Traget Ruby code:
       }
     }
 
+
+Cobol resources:
+----------------
+
+[http://www.csis.ul.ie/cobol/examples/](http://www.csis.ul.ie/cobol/examples/)
+
+[JCL tutorial](http://tutorialspoint.com/jcl/)
+
+[OpenCobolIDE github](https://github.com/OpenCobolIDE/OpenCobolIDE)
+
+[Download OpenCobolIDE](https://launchpad.net/cobcide/+download)
+
+The IDE works really well.  It has syntax checking, and a built in list of key words.
