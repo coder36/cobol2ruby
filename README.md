@@ -33,7 +33,7 @@ Source Cobol code:
 
 
 
-Traget Ruby code:
+Target Ruby code:
 -----------------
 
     IDENTIFICATION :DIVISION {
